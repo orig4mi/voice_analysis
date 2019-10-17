@@ -1,0 +1,15 @@
+Perturbation analysis of voice based on: H. Herzel, D. Berry, I. R. Titze, 
+& M. Saleh,  "Analysis of vocal disorders with methods from nonlinear 
+dynamics", Journal of Speech and Hearing Research 37, 1008-1019, 1994.
+
+If you run it with an old version of Matlab, you will need to use 
+wavread instead of audioread in line 22.
+
+Comments are always welcome.
+
+------------------------------------------
+Jorge C. Lucero
+Dept. Computer Science, University of Brasilia
+Brasilia DF 70910-900, Brazil
+lucero@unb.br
+http://www.cic.unb.br/~lucero/
